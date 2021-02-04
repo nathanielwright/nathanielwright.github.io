@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayReadyInitiator xmlns="http://schemas.microsoft.com/DRM/2007/03/protocols/">
+<LicenseAcquisition>
+    <Content>http://playready.directtaps.net/smoothstreaming/SSWSS720H264PR/SuperSpeedway_720.ism/Manifest</Content>
+    <Header>
+        <WRMHEADER xmlns="http://schemas.microsoft.com/DRM/2007/03/PlayReadyHeader" version="4.0.0.0">
+        <DATA>
+            <PROTECTINFO>
+                <KEYLEN>16</KEYLEN>
+                <ALGID>AESCTR</ALGID>
+            </PROTECTINFO>
+            <KID>AmfjCTOPbEOl3WD/5mcecA==</KID>
+            <CHECKSUM>BGw1aYZ1YXM=</CHECKSUM>
+            <CUSTOMATTRIBUTES>
+                <IIS_DRM_VERSION>7.1.1064.0</IIS_DRM_VERSION>
+            </CUSTOMATTRIBUTES>
+            <LA_URL>http://playready.directtaps.net/pr/svc/rightsmanager.asmx</LA_URL>
+            <DS_ID>AH+03juKbUGbHl1V/QIwRA==</DS_ID>
+        </DATA>
+    </WRMHEADER>
+</Header>
+</LicenseAcquisition>
+</PlayReadyInitiator>
